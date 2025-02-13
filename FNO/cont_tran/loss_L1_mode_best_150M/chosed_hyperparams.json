@@ -10,7 +10,7 @@
     "scheduler_gamma": 0.89,
     "beta": 1,
     "width": 48,
-    "modes": 20,
+    "modes": 32,
     "n_layers": 5,
     "padding": 15,
     "fno_arc": "Classic",
